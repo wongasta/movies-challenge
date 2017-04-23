@@ -1,0 +1,43 @@
+[{
+  "title": "The Shawshank Redemption",
+  "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+  "genre": ["Crime", "Drama"],
+  "year": "1994",
+  "rating": 9.3,
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+},{
+  "title": "The Godfather",
+  "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+  "genre": ["Crime", "Drama"],
+  "year": "1972",
+  "rating": 9.2,
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR3,0,182,268_AL_.jpg"
+},{
+  "title": "The Dark Knight",
+  "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+  "genre": ["Action", "Crime", "Drama"],
+  "year": "2008",
+  "rating": 9.0,
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+},{
+  "title": "Pulp Fiction",
+  "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+  "genre": ["Crime", "Drama"],
+  "year": "1994",
+  "rating": 8.9,
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+},{
+  "title": "12 Angry Men",
+  "actors": ["Henry Fonda", "Lee J. Cobb", "Martin Balsam"],
+  "genre": ["Crime", "Drama"],
+  "year": "1957",
+  "rating": 8.9,
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+},{
+  "title": "Schindler's List",
+  "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+  "genre": ["History", "Drama"],
+  "year": "1994",
+  "rating": 9.3,
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+}]

@@ -1,5 +1,13 @@
 # movies-challenge
 
+* `$ cd movies-server`
+* `$ npm run test`
+* `$ npm run start`
+
+* `$ cd movies-client`
+* `$ npm run test`
+* `$ npm run start`
+
 ## movies-server
 
 * Packages
